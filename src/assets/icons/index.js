@@ -1,6 +1,7 @@
 export { default as arrowRight } from "./arrow-right.svg";
 export { default as chevronLeft } from "./chevron-left.svg";
 export { default as cheveronRight } from "./chevron-right.svg";
+export { default as close } from "./close.svg";
 export { default as copyrightSign } from "./copyright-sign.svg";
 export { default as facebook } from "./facebook.svg";
 export { default as hamburger } from "./hamburger.svg";
